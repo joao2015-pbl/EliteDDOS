@@ -1,4 +1,4 @@
-![Screenshot_2026-08-04_19-14-09]
+![Screenshot_2026-08-04_19-14-09] https://github.com/joao2015-pbl/EliteDDOS/blob/main/Screenshot_2026-08-04_19_14_09.png?raw=true
 # **EliteDDOS - DDoS Attack Tool** ⚡
 
 **EliteDDOS** is a powerful DDoS (Distributed Denial of Service) attack tool that simulates heavy traffic to test the robustness and security of servers, networks, and websites under stress. It is designed to assist penetration testers, ethical hackers, and security researchers in assessing the vulnerability of a target system against large-scale attacks.
